@@ -1,0 +1,1 @@
+# HostThis part of the Chessproject serves the Purpose of having an Admin that a Server that Checks the given ChessBoard.
